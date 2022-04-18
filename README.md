@@ -1,4 +1,32 @@
+# Tesla Clone
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+
+## Steps I made
+
+- Create React Redux App
+- Starting server & remove unnecessary files from the Project
+- Components break down
+- Create the Home Page
+- Installing Styled Components & styling the Home Page using Styled Components
+- Create Section Component
+- Frontend Mastery Bootcamp Promotion
+- Style Section Component
+- Create & Style ItemText Component
+- Create & Style ButtonGroup Component
+- Create & Style DownArrow Component
+- Add Media Queries to ButtonGroup Component
+- Using Props to customize Section Components
+- Customising the Accessories Section Component
+- Create and Style the Logo, Main Menu, and Right Menu in the Header Component
+- Add React Reveal to the Project
+- Animating homepage components using React Reveal
+- Create Sidebar Component in the Home Page
+- Using UseState to open and close the Sidebar Component
+- Adding Transition to Sidebar Component
+- Setting up Redux & removing boilerplate code from the Project
+- Using Redux to create carSlice
+- Mapping carSlice in the Main Menu & Sidebar Component
 
 ## Available Scripts
 
